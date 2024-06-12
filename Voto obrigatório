@@ -1,8 +1,8 @@
 programa {
   funcao inicio() {
 // algortimo voto_obrigatorio
-//leia a idade de uma pessoa e verifique se seu voto é obrigatorio
-// O voto é obrigatorio quando a pessoa possuir entre 18 e 64 anos
+//leia a idade de uma pessoa e verifique se seu voto Ã© obrigatorio
+// O voto Ã© obrigatorio quando a pessoa possuir entre 18 e 64 anos
  cadeia nome
  inteiro idade
 
@@ -12,9 +12,9 @@ leia (nome)
 escreva ("coloque aqui sua idade: ")
 leia (idade)
 se(idade >=18 e idade <=64){
-  escreva(nome , "seu voto é obrigatorio")
+  escreva(nome , "seu voto Ã© obrigatorio")
 }senao{
-  escreva(nome , "seu voto não é obrigatorio")
+  escreva(nome , "seu voto nÃ£o Ã© obrigatorio")
 }
 
   }
