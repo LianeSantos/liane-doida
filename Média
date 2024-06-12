@@ -13,7 +13,7 @@ programa {
 
     media = (n1 + n2 + n3 + n4) / 4
 
-    escreva("a média obtida: ", media)
+    escreva("a mÃ©dia obtida: ", media)
 
     se(media >= 80){
       escreva("aluno aprovado")
